@@ -6,3 +6,4 @@ SELECT product_category_name
      , COUNT (product_id) as quantidade
   FROM tb_products
  WHERE product_category_name = 'artes'
+ 
